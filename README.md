@@ -1,2 +1,2 @@
-# car-loan-service
+# loan-service
 Car Loan approval service
