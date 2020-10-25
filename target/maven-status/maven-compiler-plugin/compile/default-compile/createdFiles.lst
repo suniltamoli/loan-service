@@ -1,0 +1,13 @@
+com/sg/loan/repository/CustomerLoanRepository.class
+com/sg/loan/middleware/MessageProducer.class
+com/sg/loan/services/CustomerLoanService.class
+com/sg/loan/entity/LoanRequestEntity.class
+com/sg/loan/CarLoanApplication.class
+com/sg/loan/commons/LoanException.class
+com/sg/loan/middleware/MessageConsumer.class
+com/sg/loan/transformer/LoanRequestTransformer.class
+com/sg/loan/services/CustomerLoanServiceImpl.class
+com/sg/loan/controller/CarLoanController.class
+com/sg/loan/commons/Validator.class
+com/sg/loan/model/LoanRequest.class
+com/sg/loan/commons/LoanError.class
